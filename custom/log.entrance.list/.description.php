@@ -8,8 +8,7 @@ $arComponentDescription = array(
 	"DESCRIPTION" => Loc::getMessage("LOG_COMP_DESCRIPTION"),
 	"PATH" => array(
 		"ID" => "logs",
-		"NAME" => "Логирование", 
-
+		"NAME" => Loc::getMessage("LOG_COMP_PATH_NAME"),
 	),
 );
 
